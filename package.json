@@ -8,7 +8,7 @@
     "react-dom": "^16.12.0",
     "react-scripts": "3.2.0"
   },
-  "homepage": "https://jay670.github.io/myportfolio/",
+  "homepage": "http://jaybachre.me/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
