@@ -1,0 +1,110 @@
+{
+  "main": {
+    "name":"Jay Bachre",
+    "occupation":"Student",
+    "description":"A last year student studying Bsc.IT at Vivek Vidyalaya",
+    "image":"profilepic.png",
+    "bio":"I'm a machine learning enthusiast. Interested in programming, web development and ethical hacking.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "jaybachre670@gmail.com",
+    "phone": "+918097545761",
+    "address":{
+      "street":"",
+      "city":"Mumbai",
+      "state":"Maharashtra",
+      "zip": "400-104"
+    },
+    "website": "",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/jay-bachre-b3a67815a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/jaybachre",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Jay670",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Mumbai University",
+        "degree":"Bsc IT",
+        "graduated":"April 2020",
+        "description":"To be added"
+      },
+      {
+        "school":"Vivek Vidyalaya College",
+        "degree":"Science Stream",
+        "graduated":"April 2017",
+        "description":"To be added"
+      }
+    ],
+    "work":[
+      {
+        "company":"No Working Yet",
+        "title":"",
+        "years":"",
+        "description":""
+      }
+    ],
+    "skills":[
+      {
+        "name":"C",
+        "level":"70%"
+      },
+      {
+        "name":"C++",
+        "level":"75%"
+      },
+      {
+        "name":"Java",
+        "level":"85%"
+      },
+      {
+        "name":"Python",
+        "level":"80%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJS",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Coming Soon",
+        "category":"",
+        "image":"cmsoon.jpg",
+        "url":""
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Not working so no testimonials.",
+        "user":"Jay Bachre"
+      }
+    ]
+  }
+}
